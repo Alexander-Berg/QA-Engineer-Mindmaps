@@ -15,7 +15,6 @@
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/How%20to%20create%20any%20Code%20Test.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/IT%20Infrastructure.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/Java%20for%20QA.png)
-![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/LT_full-1024x484.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/New%20Code%20language%20for%20QA%20Engineer.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/QA%20Testing.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/Web%20app%20Automation%20Tests.png)
