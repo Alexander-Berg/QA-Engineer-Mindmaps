@@ -21,3 +21,4 @@
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/Жизненный_цикл_разработки_ПО._Гибкие_методологии_р.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/jenkinsscriptedpipline-2.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/architecture-devops-with-aks.png)
+![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/709576cbbbd6cc8414fa39003902da84e8900321/Docker.png)
