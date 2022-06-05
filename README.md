@@ -23,3 +23,11 @@
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/main/architecture-devops-with-aks.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/709576cbbbd6cc8414fa39003902da84e8900321/Docker.png)
 ![Code](WebVitals.png)
+![Code](Pipelines.pdf.png)
+![Code](slide-12.jpg)
+![Code](slide-3.jpg)
+![Code](slide-6.jpg)
+![Code](slide-9.jpg)
+![Code](Блоки построения тестов.PNG)
+[Code](Tests on Mobile devices.png)
+
