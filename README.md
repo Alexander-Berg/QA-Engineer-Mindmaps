@@ -1,4 +1,5 @@
 # QA-Engineer-Mindmaps
+![Code](Pencil Testing.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/7ea9086bd171926b6c0fc59e8ddfce6ab7f5aa16/istqb.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/d4315047e30ff2ad56502e59abd67dd507f667aa/QA%20JOB.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/d4315047e30ff2ad56502e59abd67dd507f667aa/Java%20Code%20Language.png)
