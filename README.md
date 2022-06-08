@@ -30,6 +30,6 @@
 ![Code](slide-6.jpg)
 ![Code](slide-9.jpg)
 ![Code](Блоки построения тестов.PNG)
-[Code](Tests on Mobile devices.png)
+![Code](Tests on Mobile devices.png)
 
 
