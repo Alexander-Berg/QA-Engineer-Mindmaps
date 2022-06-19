@@ -1,5 +1,5 @@
 # QA-Engineer-Mindmaps
-![Code](Pencil Testing.png)
+![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/5cd0439f4d2461498034838e1a61b0f66e872bb2/Pencil%20Testing.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/7ea9086bd171926b6c0fc59e8ddfce6ab7f5aa16/istqb.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/d4315047e30ff2ad56502e59abd67dd507f667aa/QA%20JOB.png)
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/d4315047e30ff2ad56502e59abd67dd507f667aa/Java%20Code%20Language.png)
@@ -29,6 +29,7 @@
 ![Code](slide-3.jpg)
 ![Code](slide-6.jpg)
 ![Code](slide-9.jpg)
-![Code](Блоки построения тестов.PNG)
-[Code](Tests on Mobile devices.png)
+![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/5cd0439f4d2461498034838e1a61b0f66e872bb2/%D0%91%D0%BB%D0%BE%D0%BA%D0%B8%20%D0%BF%D0%BE%D1%81%D1%82%D1%80%D0%BE%D0%B5%D0%BD%D0%B8%D1%8F%20%D1%82%D0%B5%D1%81%D1%82%D0%BE%D0%B2.PNG)
+![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/5cd0439f4d2461498034838e1a61b0f66e872bb2/Tests%20on%20Mobile%20devices.png)
+
 
