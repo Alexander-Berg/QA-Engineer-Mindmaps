@@ -1,16 +1,17 @@
 # QA-Engineer-Mindmaps
 ##Table of Contents
-1.[IT general]()
-1.[QA Theory]()
-1.[Software]()
-1.[HR]()
-1.[Math]()
-1.[Code structure]()
-1.[SQL and Data]()
-1.[Tests Writing]()
-1.[Pipelines & Dev Ops]()
-1.[Aws Azure]()
-
+1. [IT general](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/IT%20general)
+1. [QA Theory](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/QA%20Theory)
+1. [Software](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/Software)
+1. [HR](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/HR)
+1. [Math](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/Math)
+1. [Code structure](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/Code%20structure)
+1. [SQL and Data](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/SQL%20and%20Data)
+1. [Tests Writing](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/Tests%20writing)
+1. [Pipelines & Dev Ops](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/Pipelnes%20%26%20DevOps)
+1. [Aws Azure](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/AWS-Azure-Mindmaps)
+2. [Mindmaps Pdf](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/1cebb6b675d7a65df098d8ed74dbd23cdbf5ddd9/QA%20mindmaps.pdf)
+ 
 ## Some Mindmaps presented here:
 
 ![Code](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/blob/5cd0439f4d2461498034838e1a61b0f66e872bb2/Pencil%20Testing.png)
