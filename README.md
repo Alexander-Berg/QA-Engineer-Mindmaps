@@ -1,5 +1,5 @@
 # QA-Engineer-Mindmaps
-##Table of Contents
+## Table of Contents
 1. [IT general](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/IT%20general)
 1. [QA Theory](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/QA%20Theory)
 1. [Software](https://github.com/Alexander-Berg/QA-Engineer-Mindmaps/tree/main/Software)
