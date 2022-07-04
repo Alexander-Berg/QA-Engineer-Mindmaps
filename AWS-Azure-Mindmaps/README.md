@@ -1,15 +1,1 @@
-# AWS&Azure Mindmaps
- AWS & Azure.Net cloud platforms schemes
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/ElasticSearch-01-SolutionArchitecture.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/N2WS-scheme.jpg)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/Screen-Shot-2018-01-26-at-11.30.14-AM-1024x644.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/architecture.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/attribute-1.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/aws-infra.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/aws_regions.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/azure-diagram.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/azure-file-share.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/data-engineering-microsoft-azure-schema-image-1.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/scheme3.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/scim-provisioning-overview.png)
-![alt text](https://github.com/Alexander-Berg/AWS-Azure-Mindmaps/blob/d1155f58c53dcf360d15f8b0b168262d20244191/sqlmdb.jpg)
+
